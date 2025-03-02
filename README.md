@@ -9,12 +9,12 @@ The following N lines each contain N integers representing the Sudoku puzzle.
 
 Run the Program:
 Execute the compiled binary:
-./sudoku_validator
+(./sudoku_validator)
 
 Review the Output:
 Check the generated output.txt file for the validation result and performance metrics.
 
 Mutex Algorithm Selection:
 Change the spinlock algorithm by modifying the constant mutex_choice in the source code (main.cpp):
-const MutexAlgorithm mutex_choice = TAS; // Options: TAS, CAS, BoundedCAS
+(const MutexAlgorithm mutex_choice = TAS; // Options: TAS, CAS, BoundedCAS)
 
