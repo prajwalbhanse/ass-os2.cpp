@@ -5,7 +5,7 @@ The first line contains three integers: K N taskInc
 The following N lines each contain N integers representing the Sudoku puzzle.
 
 8 90 20
-[<Sudoku grid data...>](<Sudoku grid data...>)
+(<Sudoku grid data...>)
 
 Run the Program:
 Execute the compiled binary:
